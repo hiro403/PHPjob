@@ -1,0 +1,23 @@
+@media screen and (max-width: 767px){
+    .wrapper {
+        width: 250px;
+    }
+    
+    .main2 {
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .wrapper {
+        width: 150px
+    } 
+
+    .main2 {
+        width: 150px;
+    }
+
+    .main {
+        float: none;
+    }
+}
